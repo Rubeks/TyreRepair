@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Acura</key>
+	<array>
+		<string>CL</string>
+		<string>EL</string>
+		<string>ILX</string>
+		<string>Integra</string>
+		<string>MDX</string>
+		<string>NSX</string>
+		<string>RDX</string>
+		<string>RL</string>
+		<string>RLX</string>
+		<string>RSX</string>
+		<string>TL</string>
+		<string>TLX</string>
+		<string>TSX</string>
+		<string>ZDX</string>
+	</array>
+	<key>Alfa Romeo</key>
+	<array>
+		<string>146</string>
+		<string>147</string>
+		<string>147 GTA</string>
+		<string>156</string>
+		<string>156 GTA</string>
+		<string>159</string>
+		<string>166</string>
+		<string>4C</string>
+		<string>8C Competizione</string>
+		<string>Brera</string>
+		<string>Giulia</string>
+		<string>Giulietta</string>
+		<string>GT</string>
+		<string>GTV</string>
+		<string>MiTo</string>
+		<string>Spider</string>
+		<string>Stelvio</string>
+	</array>
+	<key>Aston Martin</key>
+	<array>
+		<string>Cygnet</string>
+		<string>DB11</string>
+		<string>DB9</string>
+		<string>DBS</string>
+		<string>DBS Violante</string>
+		<string>Rapide</string>
+		<string>V12 Vantage</string>
+		<string>V8 Vantage</string>
+		<string>Vanquish</string>
+		<string>Virage</string>
+		<string>Zagato Coupe</string>
+	</array>
+	<key>Audi</key>
+	<array>
+		<string>A1</string>
+		<string>A2</string>
+		<string>A3</string>
+		<string>A4</string>
+		<string>A4 Allroad Quattro</string>
+		<string>A5</string>
+		<string>A6</string>
+		<string>A7</string>
+		<string>A8</string>
+		<string>Allroad</string>
+		<string>Q2</string>
+		<string>Q3</string>
+		<string>Q5</string>
+		<string>Q7</string>
+		<string>Q8</string>
+		<string>R8</string>
+		<string>RS Q3</string>
+		<string>RS3</string>
+		<string>RS4</string>
+		<string>RS5</string>
+		<string>RS6</string>
+		<string>RS7</string>
+		<string>S3</string>
+		<string>S4</string>
+		<string>S5</string>
+		<string>S6</string>
+		<string>S7</string>
+		<string>S8</string>
+		<string>SQ5</string>
+		<string>SQ7</string>
+		<string>TT</string>
+		<string>TT RS</string>
+		<string>TTS</string>
+	</array>
+	<key>BMW</key>
+	<array>
+		<string>1 series</string>
+		<string>2 series</string>
+		<string>3 series</string>
+		<string>4 series</string>
+		<string>5 series</string>
+		<string>6 series</string>
+		<string>7 series</string>
+		<string>8 series</string>
+		<string>i3</string>
+		<string>i8</string>
+		<string>M2</string>
+		<string>M3</string>
+		<string>M4</string>
+		<string>M5</string>
+		<string>M6</string>
+		<string>X1</string>
+		<string>X2</string>
+		<string>X3</string>
+		<string>X4</string>
+		<string>X5</string>
+		<string>X5 M</string>
+		<string>X6</string>
+		<string>X6 M</string>
+		<string>X7</string>
+		<string>Z3</string>
+		<string>Z4</string>
+		<string>Z8</string>
+	</array>
+	<key>Chevrolet</key>
+	<array>
+		<string>Blazer</string>
+		<string>Camaro</string>
+		<string>Captiva</string>
+		<string>Cavalier</string>
+		<string>Cobalt</string>
+		<string>Colorado</string>
+		<string>Corvette</string>
+		<string>Cruze</string>
+		<string>Epica</string>
+		<string>Equinox</string>
+		<string>Express</string>
+		<string>HHR</string>
+		<string>Impala</string>
+		<string>Lacetti</string>
+		<string>Lanos</string>
+		<string>Malibu</string>
+		<string>Monte Carlo</string>
+		<string>Niva</string>
+		<string>Orlando</string>
+		<string>Rezzo</string>
+		<string>Silverado</string>
+		<string>Spark</string>
+		<string>SSR</string>
+		<string>Suburban</string>
+		<string>Tahoe</string>
+		<string>TrailBlazer</string>
+		<string>Traverse</string>
+		<string>Trax</string>
+		<string>Uplander</string>
+		<string>Venture</string>
+	</array>
+	<key>Citroen</key>
+	<array>
+		<string>C-Crosser</string>
+		<string>C-Elysee</string>
+		<string>C1</string>
+		<string>C2</string>
+		<string>C3</string>
+		<string>C3 Aircross</string>
+		<string>C3 Picasso</string>
+		<string>C3 Pluriel</string>
+		<string>C4</string>
+		<string>C4 Aircross</string>
+		<string>C4 Cactus</string>
+		<string>C4 Picasso</string>
+		<string>C5</string>
+		<string>C6</string>
+		<string>C8</string>
+		<string>DS 7 Crossback</string>
+		<string>DS3</string>
+		<string>DS4</string>
+		<string>DS5</string>
+		<string>Grand C4 Picasso</string>
+		<string>Jumpy</string>
+		<string>Nemo</string>
+		<string>Saxo</string>
+		<string>Spacetourer</string>
+		<string>Xsara</string>
+		<string>Xsara Picasso</string>
+	</array>
+	<key>Ford</key>
+	<array>
+		<string>B-Max</string>
+		<string>C-Max</string>
+		<string>Cougar</string>
+		<string>Crown Victoria</string>
+		<string>EcoSport</string>
+		<string>Edge</string>
+		<string>Escape</string>
+		<string>Excursion</string>
+		<string>Expedition</string>
+		<string>Explorer</string>
+		<string>F-150</string>
+		<string>F-250 Super Duty</string>
+		<string>Falcon</string>
+		<string>Fiesta</string>
+		<string>Five Hundred</string>
+		<string>Flex</string>
+		<string>Focus</string>
+		<string>Freestar</string>
+		<string>Freestyle</string>
+		<string>Fusion</string>
+		<string>Galaxy</string>
+		<string>Ka</string>
+		<string>Kuga</string>
+		<string>Maverick</string>
+		<string>Mondeo</string>
+		<string>Mustang</string>
+		<string>Mustang Shelby GT350</string>
+		<string>Puma</string>
+		<string>Ranger</string>
+		<string>S-Max</string>
+		<string>Sport Trac</string>
+		<string>Taurus</string>
+		<string>Taurus X</string>
+		<string>Thunderbird</string>
+		<string>Tourneo Connect</string>
+		<string>Transit</string>
+		<string>Transit Connect</string>
+	</array>
+	<key>GAZ</key>
+	<array>
+		<string>3102</string>
+		<string>31105</string>
+		<string>Siber</string>
+		<string>Sobol</string>
+	</array>
+	<key>Kia</key>
+	<array>
+		<string>Carens</string>
+		<string>Carnival</string>
+		<string>Ceed</string>
+		<string>Cerato</string>
+		<string>Clarus</string>
+		<string>Forte</string>
+		<string>Magentis</string>
+		<string>Mohave</string>
+		<string>Niro</string>
+		<string>Opirus</string>
+		<string>Optima</string>
+		<string>Picanto</string>
+		<string>Quoris</string>
+		<string>Ray</string>
+		<string>Rio</string>
+		<string>Rio X-Line</string>
+		<string>Shuma</string>
+		<string>Sorento</string>
+		<string>Sorento Prime</string>
+		<string>Soul</string>
+		<string>Spectra</string>
+		<string>Sportage</string>
+		<string>Stinger</string>
+		<string>Stonic</string>
+		<string>Venga</string>
+	</array>
+	<key>Mazda</key>
+	<array>
+		<string>BT-50</string>
+		<string>CX-3</string>
+		<string>CX-5</string>
+		<string>CX-7</string>
+		<string>CX-9</string>
+		<string>MPV</string>
+		<string>MX-5</string>
+		<string>Premacy</string>
+		<string>RX-7</string>
+		<string>RX-8</string>
+		<string>Tribute</string>
+	</array>
+	<key>Mitsubishi</key>
+	<array>
+		<string>3000 GT</string>
+		<string>ASX</string>
+		<string>Carisma</string>
+		<string>Colt</string>
+		<string>Dignity</string>
+		<string>Eclipse</string>
+		<string>Eclipse Cross</string>
+		<string>Endeavor</string>
+		<string>Galant</string>
+		<string>Grandis</string>
+		<string>i-MiEV</string>
+		<string>L200</string>
+		<string>Lancer</string>
+		<string>Lancer Evo</string>
+		<string>Mirage</string>
+		<string>Outlander</string>
+		<string>Outlander XL</string>
+		<string>Pajero</string>
+		<string>Pajero Pinin</string>
+		<string>Pajero Sport</string>
+		<string>Raider</string>
+		<string>Space Gear</string>
+		<string>Space Runner</string>
+		<string>Space Star</string>
+	</array>
+	<key>Nissan</key>
+	<array>
+		<string>350Z</string>
+		<string>370Z</string>
+		<string>Almera</string>
+		<string>Almera Classic</string>
+		<string>Almera Tino</string>
+		<string>Altima</string>
+		<string>Armada</string>
+		<string>GT-R</string>
+		<string>Juke</string>
+		<string>Leaf</string>
+		<string>Maxima</string>
+		<string>Micra</string>
+		<string>Murano</string>
+		<string>Navara</string>
+		<string>Note</string>
+		<string>NP300</string>
+		<string>Pathfinder</string>
+		<string>Patrol</string>
+		<string>Primera</string>
+		<string>Qashqai</string>
+		<string>Qashqai+2</string>
+		<string>Quest</string>
+		<string>Rogue</string>
+		<string>Sentra</string>
+		<string>Skyline</string>
+		<string>Teana</string>
+		<string>Terrano</string>
+		<string>Tiida</string>
+		<string>Titan</string>
+		<string>X-Trail</string>
+		<string>XTerra</string>
+		<string>Z</string>
+	</array>
+	<key>Renault</key>
+	<array>
+		<string>Avantime</string>
+		<string>Captur</string>
+		<string>Clio</string>
+		<string>Duster</string>
+		<string>Duster Oroch</string>
+		<string>Espace</string>
+		<string>Fluence</string>
+		<string>Kadjar</string>
+		<string>Kangoo</string>
+		<string>Kaptur</string>
+		<string>Koleos</string>
+		<string>Laguna</string>
+		<string>Latitude</string>
+		<string>Logan</string>
+		<string>Master</string>
+		<string>Megane</string>
+		<string>Modus</string>
+		<string>Sandero</string>
+		<string>Sandero Stepway</string>
+		<string>Scenic</string>
+		<string>Symbol</string>
+		<string>Talisman</string>
+		<string>Trafic</string>
+		<string>Twingo</string>
+		<string>Twizy</string>
+		<string>Vel Satis</string>
+		<string>Wind</string>
+		<string>Zoe</string>
+	</array>
+	<key>Toyota</key>
+	<array>
+		<string>4Runner</string>
+		<string>Alphard</string>
+		<string>Auris</string>
+		<string>Avalon</string>
+		<string>Avensis</string>
+		<string>Avensis Verso</string>
+		<string>Aygo</string>
+		<string>C-HR</string>
+		<string>Camry</string>
+		<string>Celica</string>
+		<string>Corolla</string>
+		<string>Corolla Verso</string>
+		<string>FJ Cruiser</string>
+		<string>Fortuner</string>
+		<string>GT 86</string>
+		<string>Hiace</string>
+		<string>Highlander</string>
+		<string>Hilux</string>
+		<string>iQ</string>
+		<string>ist</string>
+		<string>Land Cruiser</string>
+		<string>Land Cruiser Prado</string>
+		<string>Mark II</string>
+		<string>Mirai</string>
+		<string>MR2</string>
+		<string>Picnic</string>
+		<string>Previa</string>
+		<string>Prius</string>
+		<string>RAV4</string>
+		<string>Sequoia</string>
+		<string>Sienna</string>
+		<string>Tacoma</string>
+		<string>Tundra</string>
+		<string>Venza</string>
+		<string>Verso</string>
+		<string>Vitz</string>
+		<string>Yaris</string>
+		<string>Yaris Verso</string>
+	</array>
+	<key>UAZ</key>
+	<array>
+		<string>Pickup</string>
+		<string>Slsc</string>
+		<string>Gavnomes</string>
+	</array>
+	<key>LADA</key>
+	<array>
+		<string>2101-2107</string>
+		<string>2108, 2109, 21099</string>
+		<string>2110, 2111, 2112</string>
+		<string>2113, 2114, 2115</string>
+		<string>Granta</string>
+		<string>Largus</string>
+		<string>Largus Cross</string>
+		<string>XRay</string>
+	</array>
+	<key>Volkswagen</key>
+	<array>
+		<string>Amarok</string>
+		<string>Arteon</string>
+		<string>Beetle</string>
+		<string>Bora</string>
+		<string>Caddy</string>
+		<string>CC</string>
+		<string>Crafter</string>
+		<string>CrossGolf</string>
+		<string>CrossPolo</string>
+		<string>CrossTouran</string>
+		<string>Eos</string>
+		<string>Fox</string>
+		<string>Golf</string>
+		<string>Jetta</string>
+		<string>Lupo</string>
+		<string>Multivan</string>
+		<string>New Beetle</string>
+		<string>Passat</string>
+		<string>Passat CC</string>
+		<string>Phaeton</string>
+		<string>Pointer</string>
+		<string>Polo</string>
+		<string>Routan</string>
+		<string>Scirocco</string>
+		<string>Sharan</string>
+		<string>T-Roc</string>
+		<string>Teramont</string>
+		<string>Tiguan</string>
+		<string>Touareg</string>
+		<string>Touran</string>
+		<string>Transporter</string>
+		<string>Up</string>
+	</array>
+</dict>
+</plist>

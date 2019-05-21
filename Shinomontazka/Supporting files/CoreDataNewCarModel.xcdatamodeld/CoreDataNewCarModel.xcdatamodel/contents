@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.99" systemVersion="18E226" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BasketCoreData" representedClassName="BasketCoreData" syncable="YES" codeGenerationType="class">
+        <attribute name="fourPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="NewCarCoreData" representedClassName="NewCarCoreData" syncable="YES" codeGenerationType="class">
+        <attribute name="carBrand" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="carModel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="carTyreDiametr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gosNumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="probeg" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="vinNumber" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="NewCarCoreData" positionX="-63" positionY="-18" width="128" height="135"/>
+        <element name="BasketCoreData" positionX="-63" positionY="27" width="128" height="105"/>
+    </elements>
+</model>
